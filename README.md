@@ -1,6 +1,7 @@
 # Picencrypt
-This allows you to encrypt text data onto a file 
-if you just want the exe it is in build 
+This allows you to encrypt text data onto a photo 
+
+if you just want the exe it is in build folder
 
 To use: 
 
